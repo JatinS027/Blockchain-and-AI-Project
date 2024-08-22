@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ganache": "^7.9.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.3"
+  }
+}
